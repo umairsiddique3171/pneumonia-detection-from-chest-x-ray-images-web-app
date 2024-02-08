@@ -1,0 +1,1 @@
+# pneumonia_detection_from_chest_x-rays_images_web_app_using_scikit-learn_and_streamlit
