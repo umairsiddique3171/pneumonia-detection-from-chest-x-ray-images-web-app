@@ -1,5 +1,5 @@
 ## pneumonia_detection_from_chest_x-ray_images_web_app_using_opencv_sklearn_and_streamlit
-This project aims to develop a web application for pneumonia detection from chest X-ray images using OpenCV, scikit-learn, and Streamlit.
+This project aims to develop a web application for pneumonia detection from chest X-ray images using opencv, scikit-learn, and streamlit.
 
 ## App Preview
 https://github.com/umairsiddique3171/pneumonia_detection_from_chest_x-ray_images_web_app_using_opencv_sklearn_and_streamlit/assets/148565997/2a055d17-d9ca-4508-8d16-bc1b6292c0ba
@@ -60,3 +60,6 @@ Dataset for training pneumonia classifier was available on kaggle, which can be 
 ## License
 
 This project is licensed under the [MIT License](https://github.com/umairsiddique3171/pneumonia_detection_from_chest_x-ray_images_web_app_using_opencv_sklearn_and_streamlit/blob/main/LICENSE).
+
+## Author 
+[@umairsiddique3171](https://github.com/umairsiddique3171)
